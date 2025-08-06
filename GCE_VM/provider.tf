@@ -12,5 +12,5 @@ provider "google" {
   project = "my-practice-dev-463503"
   region = "us-central1"
   zone = "us-central-a"
-  credentials = "key.json"
+  #credentials = "key.json"
 }
